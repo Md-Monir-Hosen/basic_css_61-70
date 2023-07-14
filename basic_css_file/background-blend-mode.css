@@ -1,0 +1,160 @@
+#div1 img{  
+    width: 300px;  
+    height: 300px;  
+    }  
+    #example{   
+      width: 400px;  
+      height: 400px;  
+      background-repeat: no-repeat;  
+      background-image: url("lion.png"), url("forest.jpg");  
+      background-blend-mode: multiply;  
+        
+    }  
+    #div2 img{  
+        width: 300px;  
+        height: 300px;  
+        }  
+        #example1{   
+          width: 400px;  
+          height: 400px;  
+          background-repeat: no-repeat;  
+          background-image: url("lion.png"), url("forest.jpg");  
+          background-blend-mode: screen;  
+            
+        }  #div3 img{  
+            width: 300px;  
+            height: 300px;  
+            }  
+            #example2{   
+              width: 400px;  
+              height: 400px;  
+              background-repeat: no-repeat;  
+              background-image: url("lion.png"), url("forest.jpg");  
+              background-blend-mode: color-dodge;  
+                
+            }  
+            #div4 img{  
+                width: 300px;  
+                height: 300px;  
+                }  
+                #example3{   
+                  width: 400px;  
+                  height: 400px;  
+                  background-repeat: no-repeat;  
+                  background-image: url("lion.png"), url("forest.jpg");  
+                  background-blend-mode: darken;  
+                    
+                }    
+                #div5 img{  
+                    width: 300px;  
+                    height: 300px;  
+                    }  
+                    #example4{   
+                      width: 400px;  
+                      height: 400px;  
+                      background-repeat: no-repeat;  
+                      background-image: url("lion.png"), url("forest.jpg");  
+                      background-blend-mode: lighten;  
+                    }  
+
+
+#div6 img{  
+width: 300px;  
+height: 300px;  
+}  
+#example5{   
+  width: 400px;  
+  height: 400px;  
+  background-repeat: no-repeat;  
+  background-image: url("lion.png"), url("forest.jpg");  
+  background-blend-mode: saturation;  
+}  
+
+#div7 img{  
+    width: 300px;  
+    height: 300px;  
+    }  
+    #example6{   
+      width: 400px;  
+      height: 400px;  
+      background-repeat: no-repeat;  
+      background-image: url("lion.png"), url("forest.jpg");  
+      background-blend-mode: luminosity;  
+    }  
+    #div8 img{  
+        width: 300px;  
+        height: 300px;  
+        }  
+        #example7{   
+          width: 400px;  
+          height: 400px;  
+          background-repeat: no-repeat;  
+          background-image: url("lion.png"), url("forest.jpg");  
+          background-blend-mode: overlay;  
+        }  
+        #div9 img{  
+            width: 300px;  
+            height: 300px;  
+            }  
+            #example8{   
+              width: 400px;  
+              height: 400px;  
+              background-repeat: no-repeat;  
+              background-image: url("lion.png"), url("forest.jpg");  
+              background-blend-mode: hard-light;  
+            } #div10 img{  
+                width: 300px;  
+                height: 300px;  
+                }  
+                #example9{   
+                  width: 400px;  
+                  height: 400px;  
+                  background-repeat: no-repeat;  
+                  background-image: url("lion.png"), url("forest.jpg");  
+                  background-blend-mode: soft-light;  
+                }   
+                #div11 img{  
+                    width: 300px;  
+                    height: 300px;  
+                    }  
+                    #example10{   
+                      width: 400px;  
+                      height: 400px;  
+                      background-repeat: no-repeat;  
+                      background-image: url("lion.png"), url("forest.jpg");  
+                      background-blend-mode: exclusion;  
+                    }
+                    #div12 img{  
+                        width: 300px;  
+                        height: 300px;  
+                        }  
+                        #example11{   
+                          width: 400px;  
+                          height: 400px;  
+                          background-repeat: no-repeat;  
+                          background-image: url("lion.png"), url("forest.jpg");  
+                          background-blend-mode: hue;  
+                        }  
+                        #div13 img{  
+                            width: 300px;  
+                            height: 300px;  
+                            }  
+                            #example12{   
+                              width: 400px;  
+                              height: 400px;  
+                              background-repeat: no-repeat;  
+                              background-image: url("lion.png"), url("forest.jpg");  
+                              background-blend-mode: color-burn;  
+                            } 
+                            
+                            #div14 img{  
+                                width: 300px;  
+                                height: 300px;  
+                                }  
+                                #example13{   
+                                  width: 400px;  
+                                  height: 400px;  
+                                  background-repeat: no-repeat;  
+                                  background-image: url("lion.png"), url("forest.jpg");  
+                                  background-blend-mode: color;  
+                                }  

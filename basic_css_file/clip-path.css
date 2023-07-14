@@ -1,0 +1,51 @@
+.example {  
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);  
+    }  
+    .example1{  
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);  
+     }  
+     .example2 {  
+        clip-path: circle(50%);  
+        }  
+        .example3{  
+        clip-path: circle(60% at 70% 20%);    
+        }  
+        .example4 {  
+            clip-path: ellipse(50% 35%);  
+               }  
+               .example5{  
+             clip-path: ellipse(50% 65% at 70% 50%);  
+               }  
+               .example6  
+               {  
+            clip-path: inset(20% 25% 20% 10%);      
+            }  
+               .example7  
+               {  
+            clip-path: inset(45% 0% 33% 10% round 10px);     
+            } 
+            .example8 {  
+                animation: anime 4s infinite;  
+                border: 5px dashed red;  
+              }  
+                
+              @keyframes anime {  
+                0% {  
+                  clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 70%);  
+                }  
+                20% {  
+                  clip-path: polygon(40% 0, 50% 0, 100% 100%, 0% 80%);  
+                }  
+                40% {  
+                  clip-path: polygon(0 0, 60% 72%, 100% 100%, 0 35%);  
+                }  
+                60% {  
+                  clip-path: polygon(70% 0, 20% 0, 100% 100%, 0% 80%);  
+                }  
+                80% {  
+                  clip-path: polygon(0 70%, 60% 0, 100% 32%, 0 40%);  
+                }  
+                100% {  
+                  clip-path: polygon(0 0, 60% 0, 100% 100%, 0% 30%);  
+                }  
+              }    
